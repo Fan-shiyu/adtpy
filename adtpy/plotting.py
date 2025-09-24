@@ -5,6 +5,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib_venn import venn2
+from .projection import Proj
 
 def venn_plot(
     obj,
