@@ -1,8 +1,10 @@
 # Multivariate Cosine Similarity: A Method for Comparing Dataset Similarities
 
-For the theoretical background of this method, please refer to: [Multivariate Cosine Similarity Research](https://researchspace.auckland.ac.nz/items/7c97b5ae-985c-43c7-9c65-705caa7ac853) 
+[![R package](https://img.shields.io/badge/R_package-GitHub-276DC3?logo=R&logoColor=white)](https://github.com/Fan-shiyu/Multivariate-Cosine-Similarity)
+[![Python package](https://img.shields.io/badge/Python_Package-GitHub-3776AB?logo=python&logoColor=white)](https://github.com/Fan-shiyu/adtpy)
+[![Web App](https://img.shields.io/badge/Web_App-Live-orange?logo=google-chrome&logoColor=white)](https://5683wm-shiyu-fan.shinyapps.io/Multivariate_Cosine_Similarity/)
 
-An interactive web application is available to run this method: [Multivariate Cosine Similarity App](https://5683wm-shiyu-fan.shinyapps.io/Multivariate_Cosine_Similarity/) 
+For the theoretical background of this method, please refer to: [Multivariate Cosine Similarity Research](https://researchspace.auckland.ac.nz/items/7c97b5ae-985c-43c7-9c65-705caa7ac853) 
 
 ## Tutorial
 
