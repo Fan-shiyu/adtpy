@@ -25,10 +25,7 @@ Firstly, two similar data sets are simulated by adding some noise to a reference
 ```python
 from adtpy import *
 import pandas as pd
-```
 
-
-```python
 url = "https://raw.githubusercontent.com/selva86/datasets/master/mtcars.csv"
 df1 = pd.read_csv(url).iloc[:, :11]
 df2 = simulation(df1, sd=0.6, seed=123)
