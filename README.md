@@ -8,7 +8,7 @@ For the theoretical background of this method, please refer to: [Multivariate Co
 
 ## Tutorial
 
-This is one Python package which can be used to compare the similarity of two data sets. The method is based on projection, and it starts with the results of PCA (Principal Component Analysis). 
+This is one **Python** package which can be used to compare the similarity of two data sets. The method is based on projection, and it starts with the results of PCA (Principal Component Analysis). 
 
 To install this package, please run:
 
